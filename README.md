@@ -1,1 +1,4 @@
-# 131-project6-2-hash-browns-on-your-table
+# Project 6
+## CSUF CPSC 131, Fall 2018
+
+Dec 2018
